@@ -1,0 +1,26 @@
+_repo: Madeleine-One-of-Love-s-Jansenists_65926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mirrlees, Hope
+    birthdate: 1887
+    deathdate: 1978
+    gutenberg_agent_id: '52676'
+    url: http://www.gutenberg.org/2009/agents/52676
+    wikipedia: https://en.wikipedia.org/wiki/Hope_Mirrlees
+description: ''
+gutenberg_issued: '2021-07-26'
+identifiers:
+  gutenberg: '65926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salons -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Paris (France) -- Social life and customs -- 17th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Madeleine: One of Love''s Jansenists'
+url: http://www.gutenberg.org/ebooks/65926
